@@ -11,7 +11,7 @@ No momento, estamos desenvolvendo nosso primeiro projeto: o **Astra Hub**. Esse 
 Tem dúvidas ou sugestões? Entre em contato:
 
 - 📧 E-mail: [TBA]
-
 - 🌐 Site: [EM DESENVOLVIMENTO]
+- 💬 Discussões: Utilize as [discussões da organização no Github](https://github.com/orgs/astra-software/discussions) para realizar contato com os desenvolvedores.
 
 Fique à vontade para explorar nossos repositórios e entrar em contato! 🚀
