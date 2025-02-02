@@ -6,12 +6,12 @@ Bem-vindo ao perfil oficial do Astra no Github! Somos uma comunidade de desenvol
 
 No momento, estamos desenvolvendo nosso primeiro projeto: o **Astra Hub**. Esse projeto visa a criação de uma plataforma que servirá como base para os desenvolvedores do grupo, que poderão publicar seus projetos, artigos e receber o contato de pessoas interessadas. Ao decorrer do tempo, iremos adicionar nossos principais projetos à essa lista.
 
-#📞 Contato
+# 📞 Contato
 
 Tem dúvidas ou sugestões? Entre em contato:
 
-📧 E-mail: [TBA]
+- 📧 E-mail: [TBA]
 
-🌐 Site: [EM DESENVOLVIMENTO]
+- 🌐 Site: [EM DESENVOLVIMENTO]
 
 Fique à vontade para explorar nossos repositórios e entrar em contato! 🚀
